@@ -4,7 +4,7 @@
 #### *You can also take a look at my Linkedin : [A. S. M. Ekram Hossain](https://www.linkedin.com/in/a-s-m-ekram-hossain-ba837ab7/)* <br />
 
 
-- [x] ####**Tableau** -
+- [x] **####Tableau** -
       - Amazing Mart EU Analysis Project <br />
       *See on Tableau Public:* **[Story](https://public.tableau.com/app/profile/m.ekram.hossain/viz/amazin-mart-eu-report/Story1)**<br />
 
@@ -19,7 +19,7 @@
     - Superstore2 Analysis Project 
 ![Superstore2 Dashboard](tableau/Superstore%202/Sales%20analysis%20for%20superstoe.png)
 
-- [x] ####**PowerBI** -
+- [x] **####PowerBI** -
     - Baverage brand sales Analysis Project 
 ![Baverage brand Dashboard - Sales](powerbi/Beverage%20brands/Revenue%20analysis%20of%20some%20beverage%20brand.png)
 
