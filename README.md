@@ -7,5 +7,7 @@
 - [x] **Tableau** -
       - Amazing Mart EU Analysis Project<br />
       *See on Tableau Public:* **[Story](https://public.tableau.com/app/profile/m.ekram.hossain/viz/amazin-mart-eu-report/Story1)**<br />
-![Amazing Mart EU Dashboard - Profit](tableau/AmazingMart/AmazingMartEuProfitAnalysis.png)
+
 ![Amazing Mart EU Dashboard - Sales](tableau/AmazingMart/AmazingMartEuSalesAnalysis.png)
+
+![Amazing Mart EU Dashboard - Profit](tableau/AmazingMart/AmazingMartEuProfitAnalysis.png)
