@@ -47,6 +47,8 @@
 
 ![Global superstore 2 Dashboard - Sales & profit](powerbi/Global%20Superstore%202/Global%20superstore%20profit%20analysis.png)
 
+![Global superstore 2 Dashboard - Sales & profit - regional](powerbi/Global%20Superstore%202/Global%20superstore%20profit%20analysis-regional.png)
+
 
  ### &rarr; Shipment Analysis Project 
 
